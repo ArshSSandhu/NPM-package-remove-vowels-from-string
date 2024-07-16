@@ -1,2 +1,15 @@
 # NPM-package-remove-vowels-from-string
-This is an npm package I am publishing. It's function is to remove the vowels from a String.
+
+Name of the package: package-remove-vowels-from-string
+Function: Removes vowels from a string
+
+## Installation
+
+Install the package using npm: npm i npm-package-remove-vowels-from-string
+
+## Usage
+
+See below for how to use this package 
+![Refer to this image](screenshot/image1.png)
+)
+
