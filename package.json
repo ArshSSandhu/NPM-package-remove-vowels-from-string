@@ -1,6 +1,6 @@
 {
   "name": "npm-package-remove-vowels-from-string",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This package removes all the vowels from a string.",
   "main": "index.js",
   "scripts": {
@@ -24,8 +24,5 @@
   "homepage": "https://github.com/ArshSSandhu/NPM-package-remove-vowels-from-string#readme",
   "dependencies": {
     "npm-package-remove-vowels-from-string": "^1.0.0"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@ArshSSandhu"
   }
 }
