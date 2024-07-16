@@ -24,5 +24,8 @@
   "homepage": "https://github.com/ArshSSandhu/NPM-package-remove-vowels-from-string#readme",
   "dependencies": {
     "npm-package-remove-vowels-from-string": "^1.0.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@ArshSSandhu"
   }
 }
