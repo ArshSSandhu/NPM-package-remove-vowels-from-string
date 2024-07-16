@@ -1,7 +1,7 @@
 # NPM-package-remove-vowels-from-string
 
 Name of the package: package-remove-vowels-from-string
-Function: Removes vowels from a string
+<br>Function: Removes vowels from a string
 
 ## Installation
 
